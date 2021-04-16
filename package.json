@@ -1,0 +1,14 @@
+{
+  "name": "tailwind_web_profile",
+  "version": "1.0.0",
+  "description": "Project / Tugas Web Profile dengan Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss-cli": "^0.1.2"
+  }
+}
